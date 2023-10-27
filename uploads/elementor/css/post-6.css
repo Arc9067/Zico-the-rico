@@ -6,7 +6,7 @@
   .elementor-element.elementor-element-1d30f4c
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: #ffffd9;
+  background-color: #000;
 }
 
 .elementor-6 .elementor-element.elementor-element-1d30f4c {
@@ -49,7 +49,7 @@
 .elementor-6
   .elementor-element.elementor-element-7f3a071
   .elementor-heading-title {
-  color: black;
+  color: #fff;
   font-size: 58px;
 }
 
@@ -311,7 +311,7 @@ body:not(.rtl)
   .elementor-element.elementor-element-5a56a0d
   .elementor-heading-title {
   color: #ff0000;
-  font-family: "#FFFFD9 And White Picture", Sans-serif;
+  font-family: "#000 And White Picture", Sans-serif;
   letter-spacing: 3.1px;
 }
 
