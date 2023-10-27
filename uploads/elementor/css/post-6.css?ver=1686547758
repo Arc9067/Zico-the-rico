@@ -1,0 +1,285 @@
+.elementor-6 .elementor-element.elementor-element-1d30f4c:not(.elementor-motion-effects-element-type-background), .elementor-6 .elementor-element.elementor-element-1d30f4c > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: #000000;
+}
+
+.elementor-6 .elementor-element.elementor-element-1d30f4c {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-6 .elementor-element.elementor-element-1d30f4c > .elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-6 .elementor-element.elementor-element-b358e50 .elementor-spacer-inner {
+    --spacer-size: 50px;
+}
+
+.elementor-6 .elementor-element.elementor-element-2424b1a img {
+    width: 36%;
+}
+
+.elementor-6 .elementor-element.elementor-element-2424b1a > .elementor-widget-container {
+    margin: 53px 53px 53px 53px;
+    padding: 28px 28px 28px 28px;
+}
+
+.elementor-6 .elementor-element.elementor-element-d9d5ada .elementor-spacer-inner {
+    --spacer-size: 10px;
+}
+
+.elementor-6 .elementor-element.elementor-element-7f3a071 {
+    text-align: center;
+}
+
+.elementor-6 .elementor-element.elementor-element-7f3a071 .elementor-heading-title {
+    color: var( --e-global-color-primary );
+    font-size: 58px;
+}
+
+.elementor-6 .elementor-element.elementor-element-ef84ae4 .elementor-spacer-inner {
+    --spacer-size: 10px;
+}
+
+.elementor-6 .elementor-element.elementor-element-07f6a5a {
+    text-align: center;
+    color: #FF0000;
+    font-family: "Alata", Sans-serif;
+    font-size: 18px;
+}
+
+.elementor-6 .elementor-element.elementor-element-13e0e58 {
+    text-align: center;
+    color: #E9DFDF;
+    font-family: "Alata", Sans-serif;
+    font-size: 18px;
+}
+
+.elementor-6 .elementor-element.elementor-element-2de180a {
+    text-align: center;
+    color: #FF0000;
+}
+
+.elementor-6 .elementor-element.elementor-element-0e06aaf .elementor-spacer-inner {
+    --spacer-size: 50px;
+}
+
+.elementor-6 .elementor-element.elementor-element-522ffc1 .elementor-button {
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    background-color: #de9835;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: #FFFFFF;
+}
+
+.elementor-6 .elementor-element.elementor-element-1e28c83 .elementor-button {
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    background-color: #000000;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: #DE9835;
+}
+
+.elementor-6 .elementor-element.elementor-element-1e28c83 .elementor-button:hover, .elementor-6 .elementor-element.elementor-element-1e28c83 .elementor-button:focus {
+    color: #FFFFFF;
+    background-color: #DE9835;
+}
+
+.elementor-6 .elementor-element.elementor-element-1e28c83 .elementor-button:hover svg, .elementor-6 .elementor-element.elementor-element-1e28c83 .elementor-button:focus svg {
+    fill: #FFFFFF;
+}
+
+.elementor-6 .elementor-element.elementor-element-19d8a86 .elementor-spacer-inner {
+    --spacer-size: 50px;
+}
+
+.elementor-6 .elementor-element.elementor-element-34cfc15 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child) {
+    padding-bottom: calc(43px/2);
+}
+
+.elementor-6 .elementor-element.elementor-element-34cfc15 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child) {
+    margin-top: calc(43px/2);
+}
+
+.elementor-6 .elementor-element.elementor-element-34cfc15 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item {
+    margin-right: calc(43px/2);
+    margin-left: calc(43px/2);
+}
+
+.elementor-6 .elementor-element.elementor-element-34cfc15 .elementor-icon-list-items.elementor-inline-items {
+    margin-right: calc(-43px/2);
+    margin-left: calc(-43px/2);
+}
+
+body.rtl .elementor-6 .elementor-element.elementor-element-34cfc15 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+    left: calc(-43px/2);
+}
+
+body:not(.rtl) .elementor-6 .elementor-element.elementor-element-34cfc15 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+    right: calc(-43px/2);
+}
+
+.elementor-6 .elementor-element.elementor-element-34cfc15 .elementor-icon-list-icon i {
+    color: #FFFFFF;
+}
+
+.elementor-6 .elementor-element.elementor-element-34cfc15 .elementor-icon-list-icon svg {
+    fill: #FFFFFF;
+}
+
+.elementor-6 .elementor-element.elementor-element-34cfc15 {
+    --e-icon-list-icon-size: 50px;
+}
+
+.elementor-6 .elementor-element.elementor-element-af4cf25 .elementor-spacer-inner {
+    --spacer-size: 126px;
+}
+
+.elementor-6 .elementor-element.elementor-element-d5b7e49 {
+    --divider-border-style: solid;
+    --divider-color: #FFFFFF;
+    --divider-border-width: 1.7px;
+}
+
+.elementor-6 .elementor-element.elementor-element-d5b7e49 .elementor-divider-separator {
+    width: 88%;
+    margin: 0 auto;
+    margin-center: 0;
+}
+
+.elementor-6 .elementor-element.elementor-element-d5b7e49 .elementor-divider {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.elementor-6 .elementor-element.elementor-element-5e434d6 .elementor-spacer-inner {
+    --spacer-size: 50px;
+}
+
+.elementor-6 .elementor-element.elementor-element-d321ee2 .elementor-spacer-inner {
+    --spacer-size: 81px;
+}
+
+.elementor-6 .elementor-element.elementor-element-9326dc8 > .elementor-element-populated {
+    margin: 9px 9px 9px 9px;
+    --e-column-margin-right: 9px;
+    --e-column-margin-left: 9px;
+}
+
+.elementor-6 .elementor-element.elementor-element-8144a1e {
+    text-align: center;
+}
+
+.elementor-6 .elementor-element.elementor-element-8144a1e .elementor-heading-title {
+    color: #FFFFFF;
+    font-size: 50px;
+}
+
+.elementor-6 .elementor-element.elementor-element-cec9d91 {
+    text-align: center;
+    color: #FF0000;
+}
+
+.elementor-6 .elementor-element.elementor-element-3e9a3f9 .elementor-spacer-inner {
+    --spacer-size: 50px;
+}
+
+.elementor-6 .elementor-element.elementor-element-5e8fa5e {
+    text-align: center;
+    color: #DDDDDD;
+    font-family: "Alata", Sans-serif;
+    font-size: 17px;
+}
+
+.elementor-6 .elementor-element.elementor-element-a6d3907 .elementor-spacer-inner {
+    --spacer-size: 50px;
+}
+
+.elementor-6 .elementor-element.elementor-element-9dea68f .elementor-button {
+    fill: #FFFFFF;
+    color: #FFFFFF;
+    background-color: #DE9835;
+}
+
+.elementor-6 .elementor-element.elementor-element-93f7043 .elementor-spacer-inner {
+    --spacer-size: 71px;
+}
+
+.elementor-6 .elementor-element.elementor-element-e728bb1 .elementor-spacer-inner {
+    --spacer-size: 50px;
+}
+
+.elementor-6 .elementor-element.elementor-element-0502676 .elementor-spacer-inner {
+    --spacer-size: 10px;
+}
+
+.elementor-6 .elementor-element.elementor-element-5162769 .elementor-spacer-inner {
+    --spacer-size: 50px;
+}
+
+.elementor-6 .elementor-element.elementor-element-5a56a0d {
+    text-align: center;
+}
+
+.elementor-6 .elementor-element.elementor-element-5a56a0d .elementor-heading-title {
+    color: #FF0000;
+    font-family: "Black And White Picture", Sans-serif;
+    letter-spacing: 3.1px;
+}
+
+.elementor-6 .elementor-element.elementor-element-c9e15a8 {
+    text-align: center;
+    color: #FF0000;
+}
+
+.elementor-6 .elementor-element.elementor-element-489bd61 {
+    text-align: center;
+    color: #FF0000;
+    font-family: "Alata", Sans-serif;
+}
+
+.elementor-6 .elementor-element.elementor-element-30615a8 {
+    text-align: center;
+    color: #FF0000;
+    font-family: "Alata", Sans-serif;
+}
+
+.elementor-6 .elementor-element.elementor-element-6d42039 {
+    --divider-border-style: solid;
+    --divider-color: #FFFFFF;
+    --divider-border-width: 1.7px;
+}
+
+.elementor-6 .elementor-element.elementor-element-6d42039 .elementor-divider-separator {
+    width: 88%;
+    margin: 0 auto;
+    margin-center: 0;
+}
+
+.elementor-6 .elementor-element.elementor-element-6d42039 .elementor-divider {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.elementor-6 .elementor-element.elementor-element-a414a6d .elementor-spacer-inner {
+    --spacer-size: 50px;
+}
+
+@media(max-width: 767px) {
+    .elementor-6 .elementor-element.elementor-element-1d30f4c {
+        padding:0px 0px 0px 0px;
+    }
+
+    .elementor-6 .elementor-element.elementor-element-2424b1a img {
+        width: 78%;
+        max-width: 89%;
+    }
+
+    .elementor-6 .elementor-element.elementor-element-2424b1a > .elementor-widget-container {
+        margin: 0px 0px 0px 0px;
+        padding: 0px 0px 0px 0px;
+    }
+}
